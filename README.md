@@ -1,5 +1,5 @@
 # WebScrape-Amazon
-Extract Product Info From Amazon such as Title of product,MRP,Current Price
+
 
 ### Python Script to Web Scrape Amazon.in Product Details Such as Title Of Product , MRP, Current Price and Save it To CVC File.
 To Scrape any other item just replace the product id in URL.
